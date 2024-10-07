@@ -20,7 +20,7 @@ app.use("/api/v2/event", EventRoute);
 
 app.get("/", (req, res) => {
   res.send(
-    "<center><h1>Event_management_App All apis</h1><br>Get All Apis Use My Link  target=_blank>Repository :- EventmanageMent_system</a></center>"
+    "<center><h1>Event Management All Apis</h1><br>Get All Api <a href=https://github.com/Devanshiballar/Event-Management.git target=_blank>Repository :- Event Management System</></center>"
   );
 });
 
